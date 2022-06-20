@@ -1,0 +1,12 @@
+{
+"veiculo": "gol",
+"codigo":1,
+"endereco":[
+{
+"rua": "avenida 2",
+"bairro": "jardins"
+}],
+"cpf":11111111111,
+"nome":"Nome Renan",
+"masculino":true
+}
